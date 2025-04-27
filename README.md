@@ -15,49 +15,29 @@
 
 # ![MYuppy-dospy](https://raw.githubusercontent.com/jyxdd/MYuppy-dospy/refs/heads/master/Images/image1.PNG?3)
 # ![MYuppy-dospy](https://raw.githubusercontent.com/jyxdd/MYuppy-dospy/refs/heads/master/Images/image2.PNG?3)
-# ![MYuppy-dospy](https://raw.githubusercontent.com/jyxdd/MYuppy-dospy/refs/heads/master/Images/image3.PNG?3)
 
 
     <family>
-        <font weight="100" style="normal">SegoeUI-Thin.ttf</font>
-        <font weight="100" style="italic">SegoeUI-ThinItalic.ttf</font>
-        <font weight="200" style="normal">SegoeUI-Extralight.ttf</font>
-        <font weight="200" style="italic">SegoeUI-ExtralightItalic.ttf</font>
-        <font weight="300" style="normal">SegoeUI-Light.ttf</font>
-        <font weight="300" style="italic">SegoeUI-LightItalic.ttf</font>
-        <font weight="400" style="normal">SegoeUI-Regular.ttf</font>
-        <font weight="400" style="italic">SegoeUI-Italic.ttf</font>
-        <font weight="500" style="normal">SegoeUI-Medium.ttf</font>
-        <font weight="500" style="italic">SegoeUI-MediumItalic.ttf</font>
-        <font weight="900" style="normal">SegoeUI-Bold.ttf</font>
-        <font weight="900" style="italic">SegoeUI-BoldItalic.ttf</font>
-        <font weight="800" style="normal">SegoeUI-Bold.ttf</font>
-        <font weight="800" style="italic">SegoeUI-BoldItalic.ttf</font>
-        <font weight="700" style="normal">SegoeUI-Bold.ttf</font>
-        <font weight="700" style="italic">SegoeUI-BoldItalic.ttf</font>        
-        <font weight="600" style="normal">SegoeUI-Semibold.ttf</font>
-        <font weight="600" style="italic">SegoeUI-SemiboldItalic.ttf</font>
+        <font weight="100" style="normal">MYuppydospyen-Thin.ttf</font>
+        <font weight="200" style="normal">MYuppydospyen-ExtraLight.ttf</font>
+        <font weight="300" style="normal">MYuppydospyen-Light.ttf</font>
+        <font weight="400" style="normal">MYuppydospyen-Regular.ttf</font>
+        <font weight="500" style="normal">MYuppydospyen-Medium.ttf</font>
+        <font weight="900" style="normal">MYuppydospyen-Black.ttf</font>
+        <font weight="800" style="normal">MYuppydospyen-ExtraBold.ttf</font>
+        <font weight="700" style="normal">MYuppydospyen-Bold.ttf</font>
+        <font weight="600" style="normal">MYuppydospyen-SemiBold.ttf</font>
     </family>
     
     <family>
-        <font weight="100" style="normal">MYuppydospy-Thin.ttf</font>
-        <font weight="100" style="italic">MYuppydospy-ThinItalic.ttf</font>
-        <font weight="200" style="normal">MYuppydospy-Extralight.ttf</font>
-        <font weight="200" style="italic">MYuppydospy-ExtralightItalic.ttf</font>
-        <font weight="300" style="normal">MYuppydospy-Light.ttf</font>
-        <font weight="300" style="italic">MYuppydospy-LightItalic.ttf</font>
-        <font weight="400" style="normal">MYuppydospy-Regular.ttf</font>
-        <font weight="400" style="italic">MYuppydospy-Italic.ttf</font>
-        <font weight="500" style="normal">MYuppydospy-Medium.ttf</font>
-        <font weight="500" style="italic">MYuppydospy-MediumItalic.ttf</font>
-        <font weight="900" style="normal">MYuppydospy-Bold.ttf</font>
-        <font weight="900" style="italic">MYuppydospy-BoldItalic.ttf</font>
-        <font weight="800" style="normal">MYuppydospy-Bold.ttf</font>
-        <font weight="800" style="italic">MYuppydospy-BoldItalic.ttf</font>
-        <font weight="700" style="normal">MYuppydospy-Bold.ttf</font>
-        <font weight="700" style="italic">MYuppydospy-BoldItalic.ttf</font>        
-        <font weight="600" style="normal">MYuppydospy-Semibold.ttf</font>
-        <font weight="600" style="italic">MYuppydospy-SemiboldItalic.ttf</font>
+        <font weight="100" style="normal">MYuppydospytw-Thin.ttf</font>
+        <font weight="200" style="normal">MYuppydospytw-ExtraLight.ttf</font>
+        <font weight="300" style="normal">MYuppydospytw-Light.ttf</font>
+        <font weight="400" style="normal">MYuppydospytw-Regular.ttf</font>
+        <font weight="500" style="normal">MYuppydospytw-Medium.ttf</font>
+        <font weight="900" style="normal">MYuppydospytw-Black.ttf</font>
+        <font weight="800" style="normal">MYuppydospytw-ExtraBold.ttf</font>
+        <font weight="700" style="normal">MYuppydospytw-Bold.ttf</font>
+        <font weight="600" style="normal">MYuppydospytw-SemiBold.ttf</font>
     </family> 
-
 
